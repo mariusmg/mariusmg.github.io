@@ -1,0 +1,112 @@
+{
+  "name": "Marius Gheorghe",
+  "info": {
+    "label": "Developer, Team Leader, Software Arhitect",
+    "image": "https://en.gravatar.com/userimage/19933493/aaa6ca298a56cb9bd04e34d28ebb0317.png",
+    "brief": "I'm a full stack software developer, team lead and software architect working mostly in .NET, with more than 14 years of software development experience. I have arhitected and implemented complex software solutions in different fields like health care, ecommerce, electronic signatures etc. I have experience in managing development teams using agile/waterfall methodologies and working on the full development cycle from business analysis to devops."
+  },
+  "contact": {
+    "email": "gmarius@gmail.com",
+    "phone": "",
+    "website": "http://mariusgheorghe.info"
+  },
+  "location": {
+    "city": "Bucharest",
+    "country": "RO"
+  },
+  "employment": {
+    "history": [
+      {
+        "position": "President",
+        "employer": "Company",
+        "summary": "Description...",
+        "start": "2013-01-01",
+        "end": "2014-01-01",
+        "url": "http://company.com",
+        "keywords": "",
+        "highlights": [
+          "Started the company"
+        ]
+      }
+    ]
+  },
+ "skills": {
+    "sets": [
+      {
+        "name": "Web Development",
+        "level": "Master",
+        "skills": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      }
+    ]
+  },
+  "writing": [
+    {
+      "title": "Publication",
+      "publisher": "Company",
+      "url": "http://publication.com",
+      "date": "2014-10-01",
+      "summary": "Description..."
+    }
+  ],
+  "recognition": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "from": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "social": [
+    {
+      "label": "Twitter",
+      "network": "Twitter",
+      "url": "http://twitter.com/mariusgheorghe",
+      "user": "mariusgheorghe"
+    },
+    {
+      "label": "Linkedin",
+      "network": "Linkedin",
+      "url": "https://ro.linkedin.com/in/mariusgheorghe1",
+      "user": "mariusgheorghe"
+    },
+    {
+      "label": "Blog",
+      "network": "Blog",
+      "url": "https://mariusgheorghe.info",
+      "user": "mariusgheorghe"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Jane Doe",
+      "flavor": "professional",
+      "quote": "Reference...",
+      "private": false
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "Certifications":[
+        {
+            "a":   "Microsoft Certified Professional for Developing Microsoft Windows Based Application with Microsoft .NET Framework.",
+             "b": "Microsoft Certified Professional for Developing Web services and Server Components with C#",
+             "c": "Microsoft Certified Professional for Developing Web Applications with C#"
+       }]
+     
+}
